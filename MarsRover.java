@@ -13,4 +13,6 @@ public int getX(int x){
 return x;
 }
 
+public int getY(int y){
+return y;
 }
